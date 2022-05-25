@@ -5,3 +5,4 @@ print('chidi')
 print('grace')
 print('glory')
 print('landmark software solution')
+# bugs removed
